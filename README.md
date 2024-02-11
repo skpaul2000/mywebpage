@@ -1,2 +1,3 @@
 # mywebpage
-My Web Page
+Hi! Welcome to my Web Page.
+*This ia a placeholder*
